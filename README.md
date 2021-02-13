@@ -37,7 +37,7 @@ http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN",Canal 45 Andujar
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vopQD0u.png" group-title="SPAIN",Onda Algeciras TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="SPAIN",Onda Algeciras TV
 http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
   
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7mjgwW.png" group-title="SPAIN",Onda Cadiz 
