@@ -16,6 +16,12 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 #EXTINF:-1 tvg-id="96941" tvg-name="La Otra" tvg-logo="https://lh3.googleusercontent.com/-nIxgbiYMeA4/Xx2p6jECXfI/AAAAAAAA3ek/1M4pWs7XcG83F8cylmwjJ9734zG_ZgcvgCK8BGAsYHg/s0/2020-07-26.png" group-title="SPAIN", La Otra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="SPAIN" tvg-name="mtmad 24h",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
@@ -27,12 +33,6 @@ http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
-http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN",Canal 45 Andujar
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
@@ -57,6 +57,9 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJR4KRg.png" group-title="SPAIN",Noroeste TV
+https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="SPAIN" tvg-name="101TV Málaga",101TV Málaga
 https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
