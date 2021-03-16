@@ -34,6 +34,9 @@ http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
+#EXTINF:-1,MTV Espana ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8759
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN",Canal 45 Andujar
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 
