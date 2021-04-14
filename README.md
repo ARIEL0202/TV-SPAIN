@@ -1,14 +1,26 @@
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="SPAIN" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
+#EXTINF:-1,LA1 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8782
+
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="SPAIN",LA SEXTA HD
-http://91.126.141.13:1935/live/21/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="SPAIN",ANTENA 3 HD
 http://91.126.141.13:1935/live/11/playlist.m3u8
+
+#EXTINF:-1,A3 Series ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13544
+
+#EXTINF:-1,Cuatro HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8777
+
+#EXTINF:-1,Telecinco FHD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/14022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="SPAIN",LA SEXTA HD
+http://91.126.141.13:1935/live/21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="SPAIN" tvg-name="Telemadrid",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
@@ -16,11 +28,26 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 #EXTINF:-1 tvg-id="96941" tvg-name="La Otra" tvg-logo="https://lh3.googleusercontent.com/-nIxgbiYMeA4/Xx2p6jECXfI/AAAAAAAA3ek/1M4pWs7XcG83F8cylmwjJ9734zG_ZgcvgCK8BGAsYHg/s0/2020-07-26.png" group-title="SPAIN", La Otra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,XTRM HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13527
+
+#EXTINF:-1,Mega ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
+
+#EXTINF:-1,Calle 13 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7247
+
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
 #EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
+#EXTINF:-1,Energy ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8765
+
+#EXTINF:-1,Be Mad TV ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/683552
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="SPAIN" tvg-name="mtmad 24h",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
@@ -33,6 +60,27 @@ http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1,Neox TV ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/16264
+
+#EXTINF:-1,Comedy Central HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7230
+
+#EXTINF:-1,Andalucia tv
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
+
+#EXTINF:-1,8TV Madrid ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13545
+
+#EXTINF:-1,13 TV ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13547
+
+#EXTINF:-1,ETB SAT ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/684922
+
+#EXTINF:-1,ETB 2 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/684923
 
 #EXTINF:-1,MTV Espana ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8759
@@ -180,3 +228,32 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="SPAIN",Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+
+#EXTINF:-1,Divinity HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13534
+
+#EXTINF:-1,Cosmopolitan HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13537
+
+#EXTINF:-1,Andalucia ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7254
+
+#EXTINF:-1,24 Horas ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7174
+
+#EXTINF:-1,Antena 3 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8779
+
+#EXTINF:-1,LA Sexta ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6671
+
+#EXTINF:-1,LA2 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7214
+
+#EXTINF:-1,Ten ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
+
+#EXTINF:-1,Dkiss HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
+
+
