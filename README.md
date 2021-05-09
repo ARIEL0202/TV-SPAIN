@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="SPAIN" tvg-name="24h",24h
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1,24 Horas ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7174
 
-#EXTINF:-1,LA1 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8782
+#EXTINF:-1,LA1 ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7215
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -10,44 +10,28 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="SPAIN",ANTENA 3 HD
 http://91.126.141.13:1935/live/11/playlist.m3u8
 
-#EXTINF:-1,A3 Series ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13544
+#EXTINF:-1,A3 Series ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13544 
 
 #EXTINF:-1,Cuatro HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8777
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8777
 
-#EXTINF:-1,Telecinco FHD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/14022
+#EXTINF:-1,Telecinco HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/11488
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="SPAIN",LA SEXTA HD
 http://91.126.141.13:1935/live/21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="SPAIN" tvg-name="Telemadrid",Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-
-#EXTINF:-1 tvg-id="96941" tvg-name="La Otra" tvg-logo="https://lh3.googleusercontent.com/-nIxgbiYMeA4/Xx2p6jECXfI/AAAAAAAA3ek/1M4pWs7XcG83F8cylmwjJ9734zG_ZgcvgCK8BGAsYHg/s0/2020-07-26.png" group-title="SPAIN", La Otra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,XTRM HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13527
-
 #EXTINF:-1,Mega ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8760
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760
 
-#EXTINF:-1,Calle 13 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7247
+#EXTINF:-1,Canal #0 ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13539
 
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 
 #EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
 http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
-
-#EXTINF:-1,Energy ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8765
-
-#EXTINF:-1,Be Mad TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683552
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="SPAIN" tvg-name="mtmad 24h",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
@@ -61,32 +45,36 @@ http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
-#EXTINF:-1,Neox TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/16264
+#EXTINF:-1,FDF ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7221 
 
-#EXTINF:-1,Comedy Central HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7230
+#EXTINF:-1,Neox TV ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16264 
 
-#EXTINF:-1,Andalucia tv
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8770
+#EXTINF:-1,Calle 13 HD ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7247 
 
-#EXTINF:-1,8TV Madrid ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13545
+#EXTINF:-1,Nova ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7183 
+
+#EXTINF:-1,Energy ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8765 
+
+#EXTINF:-1,Andalucia ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7254
 
 #EXTINF:-1,13 TV ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13547
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13547
 
-#EXTINF:-1,ETB SAT ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684922
+#EXTINF:-1,8TV Madrid ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13545
 
-#EXTINF:-1,ETB 2 ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684923
+#EXTINF:-1,XTRM HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13527
 
-#EXTINF:-1,MTV Espana ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8759
+#EXTINF:-1,Red Advenir ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13524
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qx5NTQN.png" group-title="SPAIN",Canal 45 Andujar
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+#EXTINF:-1,Be Mad TV ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683552
+
+#EXTINF:-1,Canaria SAT ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/685648
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="SPAIN",Onda Algeciras TV
 http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
@@ -105,15 +93,6 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="SPAIN" tvg-name="Negocios TV",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
-
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="SPAIN" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJR4KRg.png" group-title="SPAIN",Noroeste TV
-https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="SPAIN" tvg-name="101TV Málaga",101TV Málaga
-https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="SPAIN" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
 https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
@@ -181,14 +160,8 @@ http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="SPAIN",CMM Castilla La Mancha
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="SPAIN",Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="SPAIN",Fuengirola TV
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Radiohuesca/picture?width=200&height=200" group-title="SPAIN",Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="SPAIN",Imas TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
@@ -198,9 +171,6 @@ http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="SPAIN",Intercomarcal TV
 http://78.41.83.88:8880/hls/tvixa.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="SPAIN",La 8 Mediterraneo
-https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="SPAIN",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -228,32 +198,3 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="SPAIN",Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-
-#EXTINF:-1,Divinity HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13534
-
-#EXTINF:-1,Cosmopolitan HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13537
-
-#EXTINF:-1,Andalucia ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7254
-
-#EXTINF:-1,24 Horas ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7174
-
-#EXTINF:-1,Antena 3 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/8779
-
-#EXTINF:-1,LA Sexta ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6671
-
-#EXTINF:-1,LA2 HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/7214
-
-#EXTINF:-1,Ten ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13518
-
-#EXTINF:-1,Dkiss HD ES
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13533
-
-
