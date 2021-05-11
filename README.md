@@ -198,3 +198,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="SPAIN",Vision 6
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+
+#EXTINF:-1 tvg-id="139658" tvg-name="CANAL SUR ANDALUCÍA" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="00 - Argentina", CANAL SUR ANDALUCÍA
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr&PlaylistM3UCL
+
