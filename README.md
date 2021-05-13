@@ -202,3 +202,5 @@ https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 tvg-id="139658" tvg-name="CANAL SUR ANDALUCÍA" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" group-title="00 - Argentina", CANAL SUR ANDALUCÍA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr&PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="SPAIN",TELESUR MADRID
+https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
