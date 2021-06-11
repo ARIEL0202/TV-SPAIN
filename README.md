@@ -46,7 +46,7 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13518
 #EXTINF:-1,Andalucia ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7254
 
-#EXTINF:-1,13 TV ES
+#EXTINF:-1,13 TRECE
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13547
 
 #EXTINF:-1,8TV Madrid ES
