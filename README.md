@@ -40,6 +40,9 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1,Energy ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8765 
 
+#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13518 
+
 #EXTINF:-1,Andalucia ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7254
 
@@ -186,9 +189,6 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
 
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1" group-title="SPAIN",DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
-
-#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
 #EXTINF:-1,Be Mad TV ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683552
