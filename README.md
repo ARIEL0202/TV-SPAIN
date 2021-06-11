@@ -27,23 +27,8 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760
 #EXTINF:-1,Canal #0 ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13539
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
-http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="SPAIN" tvg-name="mtmad 24h",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
-
-#EXTINF:-1 tvg-id="DMAX.es" tvg-logo="http://logo.ddnb.tn/logochanel/1256.png" group-title="SPAIN",DMax 
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
-
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1" group-title="SPAIN",DKISS
-http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
-
-#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
-http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
 #EXTINF:-1,FDF ES http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7221 
 
@@ -70,12 +55,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13527
 #EXTINF:-1,Red Advenir ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13524
 
-#EXTINF:-1,Be Mad TV ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683552
-
-#EXTINF:-1,Canaria SAT ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/685648
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="SPAIN",Onda Algeciras TV
 http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
   
@@ -93,9 +72,6 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="SPAIN" tvg-name="Negocios TV",Negocios TV
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="SPAIN" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
-https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200" group-title="SPAIN" tvg-name="PTV Málaga",PTV Málaga
 https://streamer.zapitv.com/PTV-MALAGA/index.m3u8
@@ -160,9 +136,6 @@ http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="SPAIN",CMM Castilla La Mancha
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="SPAIN",Fuengirola TV
-https://secure.todostreaming.es/live/nerja-livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="SPAIN",Imas TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
@@ -187,9 +160,6 @@ https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxust
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="SPAIN",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="SPAIN",Trebujena TV
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-sfBs4tX_FNU/Xx2pZ1gCRWI/AAAAAAAA3eY/mzuq2hPVIdQQ_CvCVopMym4pcK3sFhcHQCK8BGAsYHg/s0/2020-07-26.png" group-title="SPAIN",TV Municipal Cordoba 
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
 
@@ -204,3 +174,22 @@ https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?d
 
 #EXTINF:-1 tvg-logo="" group-title="SPAIN",TELESUR MADRID
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="SPAIN", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.es" tvg-logo="http://logo.ddnb.tn/logochanel/1256.png" group-title="SPAIN",DMax 
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
+
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1" group-title="SPAIN",DKISS
+http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
+
+#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1,Be Mad TV ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683552
+
