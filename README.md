@@ -86,7 +86,7 @@ https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 https://streamer.zapitv.com/GRANADA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="SPAIN" tvg-name="PTV Córdoba",PTV Córdoba
-https://streamer.zapitv.com/PTV-CORDOBA/index.m3u8
+https://streamer.zapitv.com/PTV-CORDOBA/index.m3u8   
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="SPAIN" tvg-name="TVM Córdoba",TVM Córdoba
 https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
