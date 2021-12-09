@@ -1,3 +1,9 @@
+#EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1602614670234.png", LA-1-TVE
+http://51.79.18.128:8081/ESP%7CLA1/ESP%7CLA1/playlist.m3u8
+
+#EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1613967133527.jpg", TELECINCO
+http://54.39.48.63:8081/SPAIN%7CTELECINCO/SPAIN%7CTELECINCO/playlist.m3u8
+
 #EXTINF:-1,24 Horas ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7174
 
