@@ -1,3 +1,8 @@
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yADcc2D0uaIwP2BHCaKPz0daAAI.jpg",Una noche de locos
+http://thex.tv:57999/movie/juanlopez/juanlopez/6493.mkv
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",Rogue
+http://thex.tv:57999/movie/juanlopez/juanlopez/6494.mkv
+
 #EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1602614670234.png", LA-1-TVE
 http://51.79.18.128:8081/ESP%7CLA1/ESP%7CLA1/playlist.m3u8
 
