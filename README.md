@@ -1,8 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="RANDOM",11668.mp4
-http://5.9.79.105/vod/peliculas/adultos/11668.mp4
-#EXTINF:-1 tvg-logo="" group-title="RANDOM",11669.mp4
-http://5.9.79.105/vod/peliculas/adultos/11669.mp4
-
 #EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1602614670234.png", LA-1-TVE
 http://51.79.18.128:8081/ESP%7CLA1/ESP%7CLA1/playlist.m3u8
 
