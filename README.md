@@ -1,11 +1,3 @@
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",CONSTANTINE
-Http://streamcloud.eu/5bb0gcni3zui
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",ESCUADRON SUICIDA
-https://openload.co/f/qNtLkQqTGuo/EscuadronSuicida#Unknown_Code.mkv.mp4
-#EXTINF:-1 group-title="PELICULAS DC COMICS EN CASTELLANO",LA LIGA DE LOS HOMBRES EXTRAORDINARIOS
-http://streamcloud.eu/pc5h8h1i9fum
-
-
 #EXTINF: -1 group-title = "España" tvg-logo = "https://innovatv.live/posters/1602614670234.png", LA-1-TVE
 http://51.79.18.128:8081/ESP%7CLA1/ESP%7CLA1/playlist.m3u8
 
